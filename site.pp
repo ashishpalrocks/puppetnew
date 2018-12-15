@@ -1,5 +1,5 @@
 user { "user1":
- ensure => 'present';
+ ensure => 'present',
  managehome => 'true'
  
  }
